@@ -1,0 +1,10 @@
+# built binaries
+/caddy
+/caddy-linux-*
+/caddy-darwin-*
+*.sha256
+
+# go
+/vendor/
+*.test
+*.out
